@@ -99,7 +99,7 @@ Historique des ventes réalisées.
 | sold_price | INTEGER    | Prix de vente          |
 
 
-## ** 📊 Diagramme ER (Entité - Relation) : **
+## 📊 Diagramme ER (Entité - Relation) :
 ![http://url/to/img.png](https://github.com/AlexAlkhatib/cars-database-management/blob/main/CarsERD.png)
 
 
