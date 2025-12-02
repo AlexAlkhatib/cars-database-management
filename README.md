@@ -99,6 +99,10 @@ Historique des ventes réalisées.
 | sold_price | INTEGER    | Prix de vente          |
 
 
+## ** 📊 Diagramme ER (Entité - Relation) : **
+![http://url/to/img.png](https://github.com/AlexAlkhatib/cars-database-management/blob/main/CarsERD.png)
+
+
 ## 🧪 Contenu Pédagogique
 
 Ce projet te permet d’apprendre :
@@ -109,10 +113,6 @@ Ce projet te permet d’apprendre :
 * À comprendre comment modéliser une base relationnelle professionnelle
 * À analyser des données métier (voitures, ventes, équipes, concessions)
 
-C’est un excellent support de progression pour les métiers liés à :
-**Data Engineering, Data Analysis, Backend Development, Business Intelligence**.
-
----
 
 ## 🛠️ Exemple de Requêtes
 
